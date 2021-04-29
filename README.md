@@ -1,4 +1,4 @@
-# Aswini2305.github.io
+# jaya.github.io
 WEB-DEV BOOTCAMP SHAPEAI
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
